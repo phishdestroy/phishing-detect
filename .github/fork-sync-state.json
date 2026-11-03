@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-02T21:55:55.892043+00:00",
+  "checked_at": "2026-11-03T07:14:47.363725+00:00",
   "upstream": "enkryptcom/phishing-detect",
   "upstream_branch": "main",
-  "upstream_commit": "c2bafafa047432d1f35314f96e3284c22d60839e",
+  "upstream_commit": "e7bbfcd3b69b3b168f844aacbab60aee8cc80527",
   "version": 1,
   "workflow_policy": "preserve fork workflows; never import upstream workflows"
 }
